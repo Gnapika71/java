@@ -1,0 +1,5 @@
+class simple{
+    public stativ void main( string args[]){
+        system.out.printin("hello java");
+    }
+}
